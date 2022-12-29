@@ -1,0 +1,28 @@
+{
+    "listSkill": [
+        {
+            "nameTec": "React",
+            "poncentAbi": 80
+        },
+        {
+            "nameTec": "Axios",
+            "poncentAbi": 50
+        },
+        {
+            "nameTec": "Styled-components",
+            "poncentAbi": 60
+        },
+        {
+            "nameTec": "Sass",
+            "poncentAbi": 65
+        },
+        {
+            "nameTec": "Firebase",
+            "poncentAbi": 60
+        },
+        {
+            "nameTec": "Typescript",
+            "poncentAbi": 40
+        }
+    ]
+}

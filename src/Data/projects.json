@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "tags": ["#React", "#Axios", "#Styled-components"],
+            "subTag": "interactive",
+            "title": "Paises (inglês)",
+            "description": "esse site tem como objetivo fazer uma listagem de paises e conhecer coisas basicas sobre cada pais, moeda, com quem ele faz fronteira, quantidade de abitantes. para esse desafio usei o Context Api para alternancia de modos, react-router-dom para alterar as páginas, e por fim axios para fazer o consumo da api.",
+            "demo": "https://venerable-sunburst-4ed7c7.netlify.app",
+            "github": "https://github.com/Telesgusouza/Paises",
+
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8xKOy.Paises.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8U9mM.paises.png"
+        },
+        {
+            "tags": ["#React", "#Styled-components"],
+            "subTag": "static",
+            "title": "Loopstudios",
+            "description": "leading page respansiva, sobre uma empresa ficticia de criação de realidades virtuais.",
+            "demo": "https://clinquant-narwhal-42073b.netlify.app",
+            "github": "https://github.com/Telesgusouza/loopstudios",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/29/q83qZW.loopstudios.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8UhyX.Loopstudios.png"
+        },
+        {
+            "tags": ["#React", "#Styled-components"],
+            "subTag": "static",
+            "title": "Blogr",
+            "description": "Blogr é uma página de empresa ficticia que desponibiliza a criação de blogs.",
+            "demo": "https://ubiquitous-stroopwafel-006185.netlify.app",
+            "github": "https://github.com/Telesgusouza/destino-blog",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8xHhF.blogr.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8U6U4.Blogr.png"
+        },
+        {
+            "tags": ["#React", "#Styled-components"],
+            "subTag": "static",
+            "title": "Redes sociais",
+            "description": "Página estática, sobre monitoramento de redes sociais, com alternancia de cores.",
+            "demo": "https://luxury-otter-ef65e3.netlify.app",
+            "github": "https://github.com/Telesgusouza/Social-midia",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8xpYK.social-midia.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8UxOf.Social-midia.png"
+        },
+        {
+            "tags": ["#React", "#Axios", "#Styled-components"],
+            "subTag": "interactive",
+            "title": "Encurtamento de urls",
+            "description": "site com uma ferramenta de encurtamento de urls, todas as urls usadas no site ficam expostas somenta para o usuario para que ele possa pegar a url quando quiser, as urls são salvas usando o própio localstorage do navegador.",
+            "demo": "https://effortless-pithivier-df17c4.netlify.app",
+            "github": "https://github.com/Telesgusouza/encurtador-de-url",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8xvB9.encurtar-url.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8UYZr.encurtamento-url.png"
+        },
+        {
+            "tags": ["#React", "#Axios", "#Styled-components"],
+            "subTag": "interactive",
+            "title": "Rastreador de ip",
+            "description": "site de rastreador de ip, assim que o usuário entra na página já é possivel pegar o ip dele, é sempre mostrado para o usuario a localização no mapa, e algumas informações, o ip, local, fuso horario e isp.",
+            "demo": "https://tubular-axolotl-58a9fd.netlify.app",
+            "github": "https://github.com/Telesgusouza/Endere-o-de-ip",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8xnaX.rastreador-de-ip.png",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8U8bT.localise-o-ip.png"
+        },
+        {
+            "tags": ["#React", "#Axios", "#Styled-components"],
+            "subTag": "interactive",
+            "title": "Gerador de conselhos (em inglês)",
+            "description": "um site de geração de conselhos, todos nós as vezes precisamos de um conselho para lidar com as pedras no caminho, esse site gerara conselhos de forma aleatória para o usuário.",
+            "demo": "https://gleeful-licorice-c2c760.netlify.app",
+            "github": "https://github.com/Telesgusouza/gerador-de-conselhos",
+            
+            "imgProjDesktop": "https://i.im.ge/2022/12/28/q8x4y8.gerador-de-conslhos.webp",
+            "imgProjMobile": "https://i.im.ge/2022/12/28/q8Unb6.conselhos.png"
+        }
+    ]
+}
